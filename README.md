@@ -26,7 +26,7 @@ Clone the project
     
 ## Class Diagram
 
-![App Screenshot](/public/class-diagram.png | width=100)
+![App Screenshot](/public/class-diagram.png | width=200px)
 
 
 ## Support
