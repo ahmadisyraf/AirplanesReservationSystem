@@ -26,7 +26,7 @@ Clone the project
     
 ## Class Diagram
 
-![App Screenshot]("/public/Phase%201%20Class%20Diagram.png")
+![App Screenshot](/public/class-diagram.png)
 
 
 ## Support
